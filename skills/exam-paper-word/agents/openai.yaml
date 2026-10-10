@@ -1,0 +1,4 @@
+interface:
+  display_name: "多学科试卷编写"
+  short_description: "按考查范围、题型分值和难度合理组卷，生成含答题空间的试题卷与答案评分标准"
+  default_prompt: "使用 $exam-paper-word，按我指定的学科、考查范围、题型分值和难度，生成试题卷及答案与评分标准两份 Word 文档。"
